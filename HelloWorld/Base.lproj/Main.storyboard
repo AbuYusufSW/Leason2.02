@@ -61,7 +61,7 @@
                                             <color key="titleShadowColor" systemColor="systemBackgroundColor"/>
                                         </state>
                                         <connections>
-                                            <action selector="startButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="VtQ-MO-2W3"/>
+                                            <action selector="startButton" destination="BYZ-38-t0r" eventType="touchUpInside" id="eBI-cC-NPw"/>
                                         </connections>
                                     </button>
                                 </subviews>
@@ -85,7 +85,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="806.87022900763361" y="-758.45070422535218"/>
+            <point key="canvasLocation" x="749" y="-770"/>
         </scene>
     </scenes>
     <resources>
